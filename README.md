@@ -2,6 +2,10 @@
 
 Demo de la création d'une classe C++ permettant de réaliser des temporisations non bloquantes.
 
+Présentation de la création d'un dépôt sur GitHub, applicable aux autres plateformes d'hébergement.
+
+[![Concevoir une classe Tempo en C++ pour Arduino](Images/video_youtube.png)](https://youtu.be/j0A_Jgt_WgA)
+
 ## Check list
 
 - [x] Créer les fichiers sources

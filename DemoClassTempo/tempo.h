@@ -1,3 +1,14 @@
+/**
+ * @file tempo.h
+ * @author ArnauldDev (https://github.com/ArnauldDev/)
+ * @brief Une classe permettant de réaliser différentes temporisation
+ * @version 0.1
+ * @date 2020-11-05
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
+
 #ifndef _TEMPO_H  // si _TEMPO_H n'est pas défini
 #define _TEMPO_H  // on le défini
 
@@ -20,5 +31,6 @@ class Tempo
     unsigned long _previousMillis;  // store the last time (ms)
     unsigned long _interval;  // store the last time (ms)
 };
+
 
 #endif  // Fin si _TEMPO_H n'est pas défini

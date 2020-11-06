@@ -1,3 +1,14 @@
+/**
+ * @file tempo.ino
+ * @author ArnauldDev (https://github.com/ArnauldDev/)
+ * @brief Une classe permettant de réaliser différentes temporisation
+ * @version 0.1
+ * @date 2020-11-05
+ * 
+ * @copyright Copyright (c) 2020
+ * 
+ */
+
 #include <Arduino.h>
 #include "tempo.h"
 
