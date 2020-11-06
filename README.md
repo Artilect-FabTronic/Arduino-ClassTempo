@@ -1,8 +1,6 @@
 # Arduino-ClassTempo
 
-Demo de la création d'une classe C++ **Tempo**.
-
-[Getting Started with the Arduino MKRZero](https://www.arduino.cc/en/Guide/ArduinoMKRZero)
+Demo de la création d'une classe C++ permettant de réaliser des temporisations non bloquantes.
 
 ## Check list
 
@@ -16,12 +14,14 @@ Demo de la création d'une classe C++ **Tempo**.
 
 ## Hardware
 
-|     [Arduino MKRZero Board](URL MKRZero)     | [ARDUINO MKR CONNECTOR CARRIER](URL MKR CONNECTOR) (GROVE COMPATIBLE) |
+[Getting Started with the Arduino MKRZero](https://www.arduino.cc/en/Guide/ArduinoMKRZero)
+
+|     [Arduino MKRZero Board](URL_MKRZero)     | [ARDUINO MKR CONNECTOR CARRIER](URL_MKR_CONNECTOR) (GROVE COMPATIBLE) |
 | :------------------------------------------: | :-------------------------------------------------------------------: |
 | ![MKRZero](Images/arduino_mkrzero_board.png) |  ![MKR CONNECTOR CARRIER](Images/arduino_mkr_connector_carrier.png)   |
 
-[URL MKRZero]: https://www.arduino.cc/en/Main/ArduinoBoardMKRZero
-[URL MKR CONNECTOR]: https://store.arduino.cc/arduino-mkr-connector-carrier
+[URL_MKRZero]: https://www.arduino.cc/en/Main/ArduinoBoardMKRZero
+[URL_MKR_CONNECTOR]: https://store.arduino.cc/arduino-mkr-connector-carrier
 
 ---
 
@@ -31,7 +31,7 @@ Demo de la création d'une classe C++ **Tempo**.
 * [Le monde des objets, Des objets partout !](https://www.locoduino.org/spip.php?article87)
 * [Le campus d'Eskimon sur Discord](https://eskimon.fr/) :wink:
 
-## Open Source Hardware Association
+### Open Source Hardware Association
 
 <!-- ![oshw-logo](oshw-logo-200-px.png) -->
 <a href="https://www.oshwa.org/open-source-hardware-logo/"><img src="Images/oshw-logo-200-px.png" width="150"></a>
